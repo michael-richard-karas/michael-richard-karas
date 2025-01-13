@@ -1,10 +1,13 @@
 ## Hi there 👋
 
-I'm a PhD student studying Economics at the University of Colorado, Boulder.
+I'm a PhD candidate studying Economics at the University of Colorado, Boulder.
 
 - 🔭 Working on: Economic History, Industrial Organization, Environmental Economics
 - 📫 How to reach me: [michael.karas@colorado.com](mailto:michael.karas@colorado.com)
 - 😄 Pronouns: He/Him
+
+Projects
+[Historical Data Digitization Guide](https://github.com/michael-richard-karas/historical-data-digitization-guide)
 
 <!--
 **michael-richard-karas/michael-richard-karas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
