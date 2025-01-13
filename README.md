@@ -6,7 +6,8 @@ I'm a PhD candidate studying Economics at the University of Colorado, Boulder.
 - 📫 How to reach me: [michael.karas@colorado.com](mailto:michael.karas@colorado.com)
 - 😄 Pronouns: He/Him
 
-Projects
+## Projects
+
 [Historical Data Digitization Guide](https://github.com/michael-richard-karas/historical-data-digitization-guide)
 
 <!--
