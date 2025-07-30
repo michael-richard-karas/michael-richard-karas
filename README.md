@@ -2,7 +2,7 @@
 
 I'm a PhD candidate studying Economics at the University of Colorado, Boulder.
 
-- 🔭 Working on: Economic History, Industrial Organization, Environmental Economics
+- 🔭 Working on: Environmental Economics, Economic History, Industrial Organization
 - 📫 How to reach me: [michael.karas@colorado.com](mailto:michael.karas@colorado.com)
 - 😄 Pronouns: He/Him
 
