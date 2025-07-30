@@ -1,6 +1,7 @@
 ## Hi there 👋
 
 I'm a PhD candidate studying Economics at the University of Colorado, Boulder.
+I am on the Job Market for Fall 2025.
 
 - 🔭 Working on: Environmental Economics, Economic History, Industrial Organization
 - 📫 How to reach me: [michael.karas@colorado.com](mailto:michael.karas@colorado.com)
